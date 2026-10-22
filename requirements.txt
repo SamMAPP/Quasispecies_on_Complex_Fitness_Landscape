@@ -1,0 +1,6 @@
+numpy==1.26.4    # exact reproduction of the thesis data; newer versions work but drift in the last bit
+scipy>=1.11
+pandas>=2.1
+matplotlib>=3.8
+networkx>=3.4
+matplotlib-venn>=1.1
